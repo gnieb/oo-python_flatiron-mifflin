@@ -8,6 +8,7 @@ import ipdb;
 
 
 m1 = Manager( 'Angela Martin', 'HR', 33 )
+m2 = Manager( 'Dwight Schrute', 'Sales', 31 )
 e1 = Employee( 'Kevin Malone', 40000, m1 )
 e2 = Employee( 'Oscar MArtinez', 40000, m1 )
 e3 = Employee( 'Jim Halpert', 40100, m1)
